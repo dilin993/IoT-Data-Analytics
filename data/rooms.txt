@@ -1,0 +1,7 @@
+SM=Staff Meeting room
+BK=Business Kitchen
+CM=Chill Meeting room
+BM=Brisk Meeting room
+AM=Aspire Meeting room
+TY=Tellus public area
+SR=Staff Room
